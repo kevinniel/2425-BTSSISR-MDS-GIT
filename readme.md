@@ -33,3 +33,10 @@
 - Intervient lorsque vous essayez de push des modifications d'un fichier qui a été modifié entre temps.
 - Doit être réglé par vos soins (le choix de ce que vous gardez)
 - Doit être "résolu" en réexécutant le triptyque
+
+## Gestion des branches
+
+Les branches sont des "chemins alternatifs" à votre projet
+
+- `git branch` : permet de visualiser toutes vos branches
+- `git branch NOM` : permet de créer une branche avec un NOM
