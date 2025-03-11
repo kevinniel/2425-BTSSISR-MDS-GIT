@@ -27,3 +27,9 @@
 - `git add .` : permet d'ajouter vos modifications à l'indexation
 - `git commit -m "message"` : permet de sauvegarder l'état d'indexation (=snapshot)
 - `git push` : permet d'envoyer les commits au repo distant
+
+## Gestion des conflits
+
+- Intervient lorsque vous essayez de push des modifications d'un fichier qui a été modifié entre temps.
+- Doit être réglé par vos soins (le choix de ce que vous gardez)
+- Doit être "résolu" en réexécutant le triptyque
