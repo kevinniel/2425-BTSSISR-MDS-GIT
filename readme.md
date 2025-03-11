@@ -40,3 +40,7 @@ Les branches sont des "chemins alternatifs" à votre projet
 
 - `git branch` : permet de visualiser toutes vos branches
 - `git branch NOM` : permet de créer une branche avec un NOM
+
+# En savoir plus
+
+- https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md#tools
